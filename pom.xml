@@ -27,7 +27,11 @@
   </plugins>
  
   </build>
-  
+  <properties>
+     <property>
+      <java.version>17</java.version>
+     </property>
+</properties>
  
   
   
