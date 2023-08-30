@@ -7,7 +7,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>00-GitMavenWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
-  <!-- Hello this code is modified by ashwiniudemy-->
+  <!-- Hello this code is modified by ashwinifullstack-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
